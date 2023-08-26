@@ -1,0 +1,450 @@
+INFO - 2023-08-21 02:17:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 02:17:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 02:17:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 02:17:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 02:17:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 02:17:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 02:30:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 02:34:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 02:42:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 02:56:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 02:58:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 03:24:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 03:24:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 03:24:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 03:24:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 03:24:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 03:24:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 03:25:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 03:25:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 03:25:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 03:26:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 03:26:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 03:26:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 03:48:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 03:48:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 03:48:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 04:04:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 04:05:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 04:05:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 04:05:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 04:05:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 04:06:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 04:06:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 04:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-21 04:19:34 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:19:38 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:19:38 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:19:39 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:19:39 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:19:39 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:19:39 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:19:40 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:19:40 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:19:41 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:19:41 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:19:41 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:19:42 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:19:42 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:19:42 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:19:42 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:19:43 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:19:43 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:19:43 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:19:43 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:19:43 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:19:43 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:19:43 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:19:43 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:19:43 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:19:44 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:19:44 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:19:44 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:19:44 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:20:06 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:20:06 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:20:07 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:20:08 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:20:08 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:20:09 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 04:21:35 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-21 04:25:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 16:38:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 16:38:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 16:38:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 16:38:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 17:55:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 17:55:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 17:55:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 17:56:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-21 18:02:32 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 18:02:34 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 18:02:34 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 18:02:34 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 18:02:34 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 18:02:35 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 18:02:35 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 18:02:35 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 18:02:35 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 18:02:36 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 18:02:36 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 18:02:36 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 18:02:36 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 18:02:36 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 18:02:37 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 18:02:37 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 18:02:37 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 18:02:37 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 18:02:38 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 18:02:38 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 18:02:38 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 18:02:38 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 18:02:38 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 18:02:38 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 18:02:39 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 18:02:39 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 18:02:39 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-21 18:04:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-21 18:05:10 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 18:05:11 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 18:05:11 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-21 18:05:11 --> Too few arguments to function App\Controllers\Personas::obtenerPersona(), 0 passed in C:\xampp\htdocs\sistema\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Personas.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Personas->obtenerPersona()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-21 18:06:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 19:43:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 19:43:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 19:43:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
